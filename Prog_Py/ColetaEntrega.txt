@@ -1,0 +1,34 @@
+Atividade de sala
+
+Coleta e Entrega de Material via transporte       5 toneladas de oleo mineral
+
+-Tipo de material 
+-Localização
+-Tipo de veiculo que vai atender
+-Tamanho do produto
+-Qual origem e destino
+-Peso do produto
+
+VENDA (transporte)
+- Perguntar cidade de origem e destino
+- Qual tipo de material?
+- Peso, volumetria (medidas) e valor total da mercadoria
+- Se atendo a entrega ou não ? não
+Valor do frete (direto ou fracionado)
+- Comprador decide se aceita o valor?
+- Gera a coleta (Ordem de serviço)
+- Escolher o tipo de veiculo
+- Escolher a rota
+- Efetuar a coleta
+- Emissão de Documento (CTE, manifesto, nota fiscal)
+- Roterização de entrega (Definir o seguro)
+- Efetuar entrega
+- Notificação de quem recebeu
+
+
+
+
+Venda de tambores, quer comprar?
+se sim passa para o endereço, atende entrega?
+se s
+
