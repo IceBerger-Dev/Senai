@@ -1,8 +1,8 @@
 #FAZER UMA CALCULADORA BASICA
 
-inicio = 's'
+inicio = ''
 
-while inicio == 's':
+while inicio != 'n':
 
     inicio = str.lower(input("Deseja inciar uma operação? (s/n)"))
     if inicio == 'n':
@@ -36,3 +36,4 @@ while inicio == 's':
 
     else:   
         print("Escolha uma opção desejada!") 
+print("Volte sempre!")
