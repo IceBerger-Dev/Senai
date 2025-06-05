@@ -49,7 +49,7 @@ print(f"O apice da sua normal é: {mediana}")
 
 print(f"Seu desvio é: {desvio}")
 
-print(f"A normal anda, considerando os desvios entre {mediana - desvio} e {mediana + desvio}")
+print(f"A normal é {mediana}, considerando os desvios entre {mediana - desvio} e {mediana + desvio}")
 
 print(f"A variancia é: {variancia}")
 
